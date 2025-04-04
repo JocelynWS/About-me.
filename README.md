@@ -1,4 +1,5 @@
 # Hi 👋, I'm Tran Nguyen Ha Lan - Jocelyn
+I am currently a student majoring in Electronics and Telecommunications. My focus is on 5G Core and Cloud technologies.
 
 ## 🌐Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lan-tr%E1%BA%A7n-7428552b0/) 
