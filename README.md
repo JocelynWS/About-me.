@@ -1,4 +1,4 @@
-# Hi 👋, I'm Tran Nguyen Ha Lan - Jocelyn
+# Hi 👋, I'm Tran Nguyen Ha Lan - Jocelyn Tran 
 I am currently a student majoring in Electronics and Telecommunications. My focus is on 5G Core and Cloud technologies.
 
 ## 🌐Connect with me:
